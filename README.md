@@ -44,8 +44,8 @@ Cada materia lleva **3 bloques de cada nivel**. El nivel también se lee por las
 | Archivo | Qué es | Medidas | Cuántas veces |
 |---|---|---|---|
 | [`stl/Jenga de Cultura General.stl`](stl/) | Los 15 bloques distintos (5 materias × 3 niveles) | 75 × 25 × 15 mm c/u | **3 veces** → 45 bloques |
-| [`stl/Base de la torre.stl`](stl/) | Bandeja que apoya y centra el primer piso | 85 × 85 × 9 mm | 1 vez |
-| [`stl/Porta-cartas.stl`](stl/) | Bandeja para tener los mazos a mano | 81 × 109 × 22 mm | 1 vez (o 5, una por materia) |
+| [`stl/Base de la torre.stl`](stl/) | Bandeja que apoya y centra el primer piso | 86 × 86 × 10 mm | 1 vez |
+| [`stl/Porta-cartas.stl`](stl/) | Bandeja para los mazos, con el frente en curva | 84 × 112 × 24 mm | 1 vez (o 5, una por materia) |
 
 Boquilla 0,4 mm · capa 0,2 mm · relleno 15–20 % · **sin soportes**. Si al armar la torre los pisos quedan desparejos, imprimí los bloques al 99 % de escala.
 
