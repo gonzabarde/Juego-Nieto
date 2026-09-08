@@ -65,7 +65,8 @@ Cada `cartas.pdf` tiene 2 páginas. Imprimilas **a doble faz, girando por el lad
 | [`preguntas/`](preguntas/) | Los 15 mazos de cartas |
 | [`stl/`](stl/) | Bloques, base y porta-cartas |
 | [`informe/INFORME.pdf`](informe/INFORME.pdf) | Informe escolar del trabajo |
-| [`presentacion/Jenga_de_Cultura_General.pptx`](presentacion/) | Presentación (12 diapositivas) para exponer el juego |
+| [`presentacion/Jenga_de_Cultura_General.pdf`](presentacion/) | Presentación para exponer el juego (8 diapositivas) |
+| [`presentacion/Jenga_de_Cultura_General.pptx`](presentacion/) | La misma presentación, editable, con notas del orador |
 
 ### Mazos de cartas
 
