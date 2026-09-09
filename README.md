@@ -15,8 +15,6 @@ Reinvención escolar del Jenga para Argentina: bloques impresos en 3D con un col
 5. Respondé antes de apoyar el bloque. Si acertás sumás **1, 2 o 3 puntos** según el nivel; si errás **restás 1** (nunca bajás de cero).
 6. Colocá el bloque arriba de todo y pasa el turno.
 
-La primera vez que acertás una carta de **cada una de las 5 materias**, sumás **+3 puntos** de bono. Se cobra una sola vez.
-
 Cuando la torre se cae, termina la partida. **Quien la tiró pierde todos sus puntos.** Gana el que tenga más.
 
 > Reglas completas, variantes y guía de impresión en **[Jenga_Cultura_General_Reglas.pdf](Jenga_Cultura_General_Reglas.pdf)**
