@@ -66,6 +66,7 @@ Cada `cartas.pdf` tiene 2 páginas. Imprimilas **a doble faz, girando por el lad
 | [`stl/`](stl/) | Bloques, base y porta-cartas |
 | [`informe/INFORME.pdf`](informe/INFORME.pdf) | Informe escolar del trabajo |
 | [`presentacion/Informe_del_juego.pdf`](presentacion/) | Informe completo del proyecto en texto, con la prueba de juego para completar |
+| [`presentacion/Informe_del_juego.docx`](presentacion/) | El mismo informe en Word, para editarlo a mano |
 | [`presentacion/Jenga_de_Cultura_General.pptx`](presentacion/) | Presentación de 8 diapositivas para exponer, con notas del orador |
 
 ### Mazos de cartas
