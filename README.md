@@ -45,6 +45,8 @@ Cada materia lleva **3 bloques de cada nivel**. El nivel también se lee por las
 | [`stl/Jenga de Cultura General.stl`](stl/) | Los 15 bloques juntos, sin color (archivo original) | 95 × 425 × 15 mm | — (ver nota) |
 | [`stl/Base de la torre.stl`](stl/) | Placa que apoya y centra el primer piso | 86 × 86 × 6 mm | 1 vez |
 | [`stl/Porta-cartas.stl`](stl/) | Bandeja para los mazos, con muesca para sacarlas | 77 × 105 × 24 mm | 1 vez (o 5, una por materia) |
+| [`stl/Caja del juego.stl`](stl/) | Caja con dos compartimentos y divisor rebajado | 172 × 131 × 138 mm | 1 vez |
+| [`stl/Tapa de la caja.stl`](stl/) | Tapa con muescas de agarre | 177 × 136 × 32 mm | 1 vez |
 
 Para imprimir usá los `.3mf`: traen el color de cada nivel adentro y vienen ya apoyados y centrados sobre la cama. El `.stl` junto no guarda color y mide 425 mm de largo, así que **no entra en una cama de 220 × 220**: queda como archivo original de referencia.
 
@@ -68,6 +70,7 @@ Cada `cartas.pdf` tiene 2 páginas. Imprimilas **a doble faz, girando por el lad
 | [`informe/INFORME.pdf`](informe/INFORME.pdf) | Informe escolar del trabajo |
 | [`presentacion/Informe_del_juego.pdf`](presentacion/) | Informe completo del proyecto en texto, con la prueba de juego para completar |
 | [`presentacion/Informe_del_juego.docx`](presentacion/) | El mismo informe en Word, para editarlo a mano |
+| [`packaging/Arte_de_la_caja.pdf`](packaging/) | Arte de la caja: tapa, dorso y laterales, a escala real con sangrado |
 
 ### Mazos de cartas
 
