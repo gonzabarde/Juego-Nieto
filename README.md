@@ -10,7 +10,7 @@ Reinvención escolar del Jenga para Argentina: bloques impresos en 3D con un col
 
 1. Armá la torre sobre la base: 15 pisos de 3 bloques, cada piso girado 90° respecto del anterior.
 2. En tu turno, sacá un bloque con una sola mano.
-3. Mirá qué te tocó: el **color** dice la materia y las **ranuras** dicen el nivel.
+3. Mirá qué te tocó: el **color** dice la materia y las **ranuras** dicen el nivel. En la torre sólo se ve el color, así que elegís la materia y el nivel te toca.
 4. El jugador de tu izquierda saca una carta de ese mazo y te lee la pregunta.
 5. Respondé antes de apoyar el bloque. Si acertás sumás **1, 2 o 3 puntos** según el nivel; si errás **restás 1** (nunca bajás de cero).
 6. Colocá el bloque arriba de todo y pasa el turno.
