@@ -42,11 +42,11 @@ Cada materia lleva **3 bloques de cada nivel**. El nivel también se lee por las
 | Archivo | Qué es | Medidas | Cuántas veces |
 |---|---|---|---|
 | [`stl/materias/*.3mf`](stl/materias/) | **Un archivo por materia**, con sus 3 niveles y el color adentro | 95 × 75 × 15 mm | **3 veces cada uno** → 45 bloques |
-| [`stl/Jenga de Cultura General.stl`](stl/) | Los 15 bloques juntos, sin color (archivo original) | 75 × 25 × 15 mm c/u | 3 veces → 45 bloques |
+| [`stl/Jenga de Cultura General.stl`](stl/) | Los 15 bloques juntos, sin color (archivo original) | 95 × 425 × 15 mm | — (ver nota) |
 | [`stl/Base de la torre.stl`](stl/) | Placa que apoya y centra el primer piso | 86 × 86 × 6 mm | 1 vez |
 | [`stl/Porta-cartas.stl`](stl/) | Bandeja para los mazos, con muesca para sacarlas | 77 × 105 × 24 mm | 1 vez (o 5, una por materia) |
 
-Los `.3mf` traen el color de cada nivel adentro y vienen ya apoyados sobre la cama; el `.stl` no guarda color y entra parado, hay que acostarlo a mano.
+Para imprimir usá los `.3mf`: traen el color de cada nivel adentro y vienen ya apoyados y centrados sobre la cama. El `.stl` junto no guarda color y mide 425 mm de largo, así que **no entra en una cama de 220 × 220**: queda como archivo original de referencia.
 
 Boquilla 0,4 mm · capa 0,2 mm · relleno 15–20 % · **sin soportes**. Si al armar la torre los pisos quedan desparejos, imprimí los bloques al 99 % de escala.
 
@@ -68,7 +68,6 @@ Cada `cartas.pdf` tiene 2 páginas. Imprimilas **a doble faz, girando por el lad
 | [`informe/INFORME.pdf`](informe/INFORME.pdf) | Informe escolar del trabajo |
 | [`presentacion/Informe_del_juego.pdf`](presentacion/) | Informe completo del proyecto en texto, con la prueba de juego para completar |
 | [`presentacion/Informe_del_juego.docx`](presentacion/) | El mismo informe en Word, para editarlo a mano |
-| [`presentacion/Jenga_de_Cultura_General.pptx`](presentacion/) | Presentación de 8 diapositivas para exponer, con notas del orador |
 
 ### Mazos de cartas
 
