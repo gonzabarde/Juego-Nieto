@@ -44,7 +44,7 @@ Cada materia lleva **3 bloques de cada nivel**. El nivel también se lee por las
 | [`stl/materias/*.3mf`](stl/materias/) | **Un archivo por materia**, con sus 3 niveles y el color adentro | 95 × 75 × 15 mm | **3 veces cada uno** → 45 bloques |
 | [`stl/Jenga de Cultura General.stl`](stl/) | Los 15 bloques juntos, sin color (archivo original) | 75 × 25 × 15 mm c/u | 3 veces → 45 bloques |
 | [`stl/Base de la torre.stl`](stl/) | Placa que apoya y centra el primer piso | 86 × 86 × 6 mm | 1 vez |
-| [`stl/Porta-cartas.stl`](stl/) | Bandeja para los mazos, con el frente en curva | 84 × 112 × 24 mm | 1 vez (o 5, una por materia) |
+| [`stl/Porta-cartas.stl`](stl/) | Bandeja para los mazos, con el frente en curva | 77 × 105 × 24 mm | 1 vez (o 5, una por materia) |
 
 Los `.3mf` traen el color de cada nivel adentro y vienen ya apoyados sobre la cama; el `.stl` no guarda color y entra parado, hay que acostarlo a mano.
 
