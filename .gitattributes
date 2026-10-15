@@ -1,0 +1,13 @@
+# Sin esto, git adivina si un archivo es texto y a los PDF les convierte
+# los finales de linea al hacer checkout en Windows (core.autocrlf), lo
+# que rompe el xref y los deja corruptos. Declararlos binarios lo evita.
+
+*.pdf   binary
+*.docx  binary
+*.pptx  binary
+*.png   binary
+*.stl   binary
+*.3mf   binary
+
+# El texto del proyecto si se normaliza.
+*.md    text eol=lf
