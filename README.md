@@ -47,6 +47,7 @@ Cada materia lleva **3 bloques de cada nivel**. El nivel también se lee por las
 | [`stl/Porta-cartas.stl`](stl/) | Bandeja para los mazos, con muesca para sacarlas | 77 × 105 × 24 mm | 1 vez (o 5, una por materia) |
 | [`stl/Caja del juego.stl`](stl/) | Caja con dos compartimentos y divisor rebajado | 172 × 131 × 138 mm | 1 vez |
 | [`stl/Tapa de la caja.stl`](stl/) | Tapa con muescas de agarre | 177 × 136 × 32 mm | 1 vez |
+| [`stl/piezas/*.3mf`](stl/piezas/) | Las mismas cuatro piezas en 3MF, en gris grafito | — | — |
 
 Para imprimir usá los `.3mf`: traen el color de cada nivel adentro y vienen ya apoyados y centrados sobre la cama. El `.stl` junto no guarda color y mide 425 mm de largo, así que **no entra en una cama de 220 × 220**: queda como archivo original de referencia.
 
