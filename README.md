@@ -2,7 +2,7 @@
 
 Reinvención escolar del Jenga para Argentina: bloques impresos en 3D con un color por materia y un nivel de dificultad grabado, cartas de preguntas y un sistema de puntos. De 2 a 4 jugadores, 20 a 30 minutos.
 
-**45 bloques · 15 pisos · 60 cartas · 5 materias × 3 niveles**
+**60 bloques · 20 pisos · 60 cartas · 5 materias × 3 niveles**
 
 ---
 
@@ -10,7 +10,7 @@ Reinvención escolar del Jenga para Argentina: bloques impresos en 3D con un col
 
 1. Armá la torre sobre la base: 15 pisos de 3 bloques, cada piso girado 90° respecto del anterior.
 2. En tu turno, sacá un bloque con una sola mano.
-3. Mirá qué te tocó: el **color** dice la materia y las **ranuras** dicen el nivel. En la torre sólo se ve el color, así que elegís la materia y el nivel te toca.
+3. Mirá qué te tocó: la **letra** de la punta dice la materia y el **número romano** de la cara grande dice el nivel. En la torre sólo se ven las puntas, así que elegís la materia y el nivel te toca.
 4. El jugador de tu izquierda saca una carta de ese mazo y te lee la pregunta.
 5. Respondé antes de apoyar el bloque. Si acertás sumás **1, 2 o 3 puntos** según el nivel; si errás **restás 1** (nunca bajás de cero).
 6. Colocá el bloque arriba de todo y pasa el turno.
@@ -31,7 +31,7 @@ Cuando la torre se cae, termina la partida. **Quien la tiró pierde todos sus pu
 | Lengua y Literatura | Violeta | L | `#E8CCFF` | `#9955CC` | `#551188` | 9 |
 | Educación Cívica | Naranja | E | `#FFE5CC` | `#FF8833` | `#BB4400` | 9 |
 
-Cada materia lleva **3 bloques de cada nivel**. El nivel también se lee por las ranuras hundidas en la cara grande, y la materia por la inicial grabada en las dos puntas: el juego funciona aunque lo imprimas todo de un solo color.
+Cada materia lleva **4 bloques de cada nivel**. Los bloques se imprimen todos del mismo color: la materia se lee por la inicial grabada en las dos puntas y el nivel por el número romano de la cara grande, que en la torre queda tapado.
 
 ---
 
@@ -41,15 +41,19 @@ Cada materia lleva **3 bloques de cada nivel**. El nivel también se lee por las
 
 | Archivo | Qué es | Medidas | Cuántas veces |
 |---|---|---|---|
-| [`stl/materias/*.3mf`](stl/materias/) | **Un archivo por materia**, con sus 3 niveles y el color adentro | 95 × 75 × 15 mm | **3 veces cada uno** → 45 bloques |
-| [`stl/Jenga de Cultura General.stl`](stl/) | Los 15 bloques juntos, sin color (archivo original) | 95 × 425 × 15 mm | — (ver nota) |
-| [`stl/Base de la torre.stl`](stl/) | Placa que apoya y centra el primer piso | 86 × 86 × 6 mm | 1 vez |
-| [`stl/Porta-cartas.stl`](stl/) | Bandeja para los mazos, con muesca para sacarlas | 77 × 105 × 24 mm | 1 vez (o 5, una por materia) |
-| [`stl/Caja del juego.stl`](stl/) | Caja con dos compartimentos y divisor rebajado | 172 × 131 × 138 mm | 1 vez |
-| [`stl/Tapa de la caja.stl`](stl/) | Tapa con muescas de agarre | 177 × 136 × 32 mm | 1 vez |
-| [`stl/piezas/*.3mf`](stl/piezas/) | Las mismas cuatro piezas en 3MF, en gris grafito | — | — |
+| [`stl/Bandeja de bloques.stl`](stl/) | **30 bloques acomodados** para una cama de 250 × 250 | 219 × 161 × 10,5 mm | **2 veces** → 60 bloques |
+| [`stl/materias/*.3mf`](stl/materias/) | Los mismos bloques, separados por materia | 66,5 × 52,5 × 10,5 mm | 4 veces cada uno |
+| [`stl/Jenga de Cultura General.stl`](stl/) | Los 15 bloques distintos, juntos (archivo original) | 66 × 298 × 10,5 mm | — (ver nota) |
+| [`stl/Base de la torre.stl`](stl/) | Placa que apoya y centra el primer piso | 62,1 × 62,1 × 4,6 mm | 1 vez |
+| [`stl/Porta-cartas.stl`](stl/) | Bandeja para los mazos, con muesca para sacarlas | 77 × 105 × 24 mm | 1 vez |
+| [`stl/Caja del juego.stl`](stl/) | Caja con dos compartimentos y divisor rebajado | 140,5 × 113 × 108 mm | 1 vez |
+| [`stl/Tapa de la caja.stl`](stl/) | Tapa con muescas de agarre | 145,2 × 117,7 × 32 mm | 1 vez |
+| [`stl/piezas/*.3mf`](stl/piezas/) | Las mismas piezas en 3MF, en gris grafito | — | — |
 
-Para imprimir usá los `.3mf`: traen el color de cada nivel adentro y vienen ya apoyados y centrados sobre la cama. El `.stl` junto no guarda color y mide 425 mm de largo, así que **no entra en una cama de 220 × 220**: queda como archivo original de referencia.
+Cada bloque mide **52,5 × 17,5 × 10,5 mm**: el 70 % de un Jenga común (75 × 25 × 15), para
+gastar menos filamento. Los 60 bloques son **20 pisos**, una torre de 21 cm.
+
+Para imprimir, lo más cómodo es la **bandeja**: trae 30 bloques ya acomodados y entra en una cama de 250 × 250 dejando 10 mm de margen por lado. El `.stl` de los 15 juntos mide 298 mm de largo y queda como archivo original de referencia.
 
 Boquilla 0,4 mm · capa 0,2 mm · relleno 15–20 % · **sin soportes**. Si al armar la torre los pisos quedan desparejos, imprimí los bloques al 99 % de escala.
 
