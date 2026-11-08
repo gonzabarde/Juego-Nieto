@@ -41,19 +41,21 @@ Cada materia lleva **4 bloques de cada nivel**. Los bloques se imprimen todos de
 
 | Archivo | Qué es | Medidas | Cuántas veces |
 |---|---|---|---|
-| [`stl/Bandeja de bloques.stl`](stl/) | **30 bloques acomodados** para una cama de 250 × 250 | 219 × 161 × 10,5 mm | **2 veces** → 60 bloques |
-| [`stl/materias/*.3mf`](stl/materias/) | Los mismos bloques, separados por materia | 66,5 × 52,5 × 10,5 mm | 4 veces cada uno |
-| [`stl/Jenga de Cultura General.stl`](stl/) | Los 15 bloques distintos, juntos (archivo original) | 66 × 298 × 10,5 mm | — (ver nota) |
-| [`stl/Base de la torre.stl`](stl/) | Placa que apoya y centra el primer piso | 62,1 × 62,1 × 4,6 mm | 1 vez |
+| [`stl/Bandeja de bloques.stl`](stl/) | **30 bloques acomodados** para una cama de 250 × 250 | 227 × 186 × 12 mm | **2 veces** → 60 bloques |
+| [`stl/materias/*.3mf`](stl/materias/) | Los mismos bloques, separados por materia | 200 × 20 × 12 mm | 4 veces cada uno |
+| [`stl/Jenga de Cultura General.stl`](stl/) | Los 15 bloques distintos, juntos (archivo original) | 200 × 140 × 12 mm | — (ver nota) |
+| [`stl/Base de la torre.stl`](stl/) | Placa que apoya y centra el primer piso | 69,6 × 69,6 × 4,9 mm | 1 vez |
 | [`stl/Porta-cartas.stl`](stl/) | Bandeja para los mazos, con muesca para sacarlas | 77 × 105 × 24 mm | 1 vez |
-| [`stl/Caja del juego.stl`](stl/) | Caja con dos compartimentos y divisor rebajado | 140,5 × 113 × 108 mm | 1 vez |
-| [`stl/Tapa de la caja.stl`](stl/) | Tapa con muescas de agarre | 145,2 × 117,7 × 32 mm | 1 vez |
+| [`stl/Caja del juego.stl`](stl/) | Caja con dos compartimentos y divisor rebajado | 148 × 126 × 123 mm | 1 vez |
+| [`stl/Tapa de la caja.stl`](stl/) | Tapa con muescas de agarre | 152,7 × 130,7 × 32 mm | 1 vez |
 | [`stl/piezas/*.3mf`](stl/piezas/) | Las mismas piezas en 3MF, en gris grafito | — | — |
 
-Cada bloque mide **52,5 × 17,5 × 10,5 mm**: el 70 % de un Jenga común (75 × 25 × 15), para
-gastar menos filamento. Los 60 bloques son **20 pisos**, una torre de 21 cm.
+Cada bloque mide **60 × 20 × 12 mm**: el 80 % de un Jenga común (75 × 25 × 15),
+para gastar menos filamento. Los 60 bloques son **20 pisos**, una
+torre de 24 cm, y pesan **356 g** de filamento (**734 g** todo
+el juego, 5,9 g por bloque).
 
-Para imprimir, lo más cómodo es la **bandeja**: trae 30 bloques ya acomodados y entra en una cama de 250 × 250 dejando 10 mm de margen por lado. El `.stl` de los 15 juntos mide 298 mm de largo y queda como archivo original de referencia.
+Para imprimir, lo más cómodo es la **bandeja**: trae 30 bloques ya acomodados y entra en una cama de 250 × 250 dejando 10 mm de margen por lado. El `.stl` de los 15 juntos mide 200 mm de largo y queda como archivo original de referencia.
 
 Boquilla 0,4 mm · capa 0,2 mm · relleno 15–20 % · **sin soportes**. Si al armar la torre los pisos quedan desparejos, imprimí los bloques al 99 % de escala.
 
