@@ -41,7 +41,7 @@ Cada materia lleva **4 bloques de cada nivel**. Los bloques se imprimen todos de
 
 | Archivo | Qué es | Medidas | Cuántas veces |
 |---|---|---|---|
-| [`stl/Bandeja de bloques.stl`](stl/) | **30 bloques acomodados** para una cama de 250 × 250 | 227 × 186 × 12 mm | **2 veces** → 60 bloques |
+| [`stl/Bandeja de bloques.stl`](stl/) | **30 bloques acomodados** para una cama de 250 × 250 | 186 × 227 × 12 mm | **2 veces** → 60 bloques |
 | [`stl/materias/*.3mf`](stl/materias/) | Los mismos bloques, separados por materia | 200 × 20 × 12 mm | 4 veces cada uno |
 | [`stl/Jenga de Cultura General.stl`](stl/) | Los 15 bloques distintos, juntos (archivo original) | 200 × 140 × 12 mm | — (ver nota) |
 | [`stl/Base de la torre.stl`](stl/) | Placa que apoya y centra el primer piso | 69,6 × 69,6 × 4,9 mm | 1 vez |
