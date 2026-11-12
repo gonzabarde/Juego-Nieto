@@ -41,7 +41,7 @@ Cada materia lleva **4 bloques de cada nivel**. Los bloques se imprimen todos de
 
 | Archivo | Qué es | Medidas | Cuántas veces |
 |---|---|---|---|
-| [`stl/Bandeja de bloques.stl`](stl/) | **30 bloques acomodados** para una cama de 250 × 250 | 186 × 227 × 12 mm | **2 veces** → 60 bloques |
+| [`stl/Tanda N de 4.stl`](stl/) | **15 bloques**: una fila por materia, con sus tres niveles | 186 × 148 × 12 mm | **4 tandas** → 60 bloques |
 | [`stl/materias/*.3mf`](stl/materias/) | Los mismos bloques, separados por materia | 200 × 20 × 12 mm | 4 veces cada uno |
 | [`stl/Jenga de Cultura General.stl`](stl/) | Los 15 bloques distintos, juntos (archivo original) | 200 × 140 × 12 mm | — (ver nota) |
 | [`stl/Base de la torre.stl`](stl/) | Placa que apoya y centra el primer piso | 69,6 × 69,6 × 4,9 mm | 1 vez |
@@ -55,7 +55,7 @@ para gastar menos filamento. Los 60 bloques son **20 pisos**, una
 torre de 24 cm, y pesan **356 g** de filamento (**734 g** todo
 el juego, 5,9 g por bloque).
 
-Para imprimir, lo más cómodo es la **bandeja**: trae 30 bloques ya acomodados y entra en una cama de 250 × 250 dejando 10 mm de margen por lado. El `.stl` de los 15 juntos mide 200 mm de largo y queda como archivo original de referencia.
+Las 4 tandas son **el mismo archivo** repetido: cada una trae una copia de los 15 bloques distintos, acomodados en una fila por materia con sus tres niveles en orden I · II · III. Van numeradas para poder ir tachándolas. Entran en una cama de 250 × 250 dejando 10 mm de margen por lado. El `.stl` de los 15 juntos mide 200 mm de largo y queda como archivo original de referencia.
 
 Boquilla 0,4 mm · capa 0,2 mm · relleno 15–20 % · **sin soportes**. Si al armar la torre los pisos quedan desparejos, imprimí los bloques al 99 % de escala.
 
