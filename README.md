@@ -47,12 +47,12 @@ Cada materia lleva **4 bloques de cada nivel**. Los bloques se imprimen todos de
 | [`stl/Base de la torre.stl`](stl/) | Placa que apoya y centra el primer piso | 69,6 × 69,6 × 4,9 mm | 1 vez |
 | [`stl/Porta-cartas.stl`](stl/) | Bandeja para los mazos, con muesca para sacarlas | 77 × 105 × 24 mm | 1 vez |
 | [`stl/Caja del juego.stl`](stl/) | Caja con dos compartimentos y divisor rebajado | 148 × 126 × 123 mm | 1 vez |
-| [`stl/Tapa de la caja.stl`](stl/) | Tapa con muescas de agarre | 152,7 × 130,7 × 32 mm | 1 vez |
+| [`stl/Tapa de la caja.stl`](stl/) | Tapa con muescas de agarre | 153 × 131 × 95 mm | 1 vez |
 | [`stl/piezas/*.3mf`](stl/piezas/) | Las mismas piezas en 3MF, en gris grafito | — | — |
 
 Cada bloque mide **60 × 20 × 12 mm**: el 80 % de un Jenga común (75 × 25 × 15),
 para gastar menos filamento. Los 60 bloques son **20 pisos**, una
-torre de 24 cm, y pesan **356 g** de filamento (**734 g** todo
+torre de 24 cm, y pesan **356 g** de filamento (**816 g** todo
 el juego, 5,9 g por bloque).
 
 Las 4 tandas son **el mismo archivo** repetido: cada una trae una copia de los 15 bloques distintos, acomodados en una fila por materia con sus tres niveles en orden I · II · III. Van numeradas para poder ir tachándolas. Entran en una cama de 250 × 250 dejando 10 mm de margen por lado. El `.stl` de los 15 juntos mide 200 mm de largo y queda como archivo original de referencia.
