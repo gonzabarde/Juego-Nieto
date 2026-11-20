@@ -77,7 +77,7 @@ Cada `cartas.pdf` tiene 2 páginas. Imprimilas **a doble faz, girando por el lad
 | [`informe/INFORME.pdf`](informe/INFORME.pdf) | Informe escolar del trabajo |
 | [`presentacion/Informe_del_juego.pdf`](presentacion/) | Informe completo del proyecto en texto, con la prueba de juego para completar |
 | [`presentacion/Informe_del_juego.docx`](presentacion/) | El mismo informe en Word, para editarlo a mano |
-| [`packaging/Arte_de_la_caja.pdf`](packaging/) | Arte de la caja: tapa, dorso y laterales, a escala real con sangrado |
+| [`packaging/Arte_de_la_caja.pdf`](packaging/) | Arte de la caja: seis caras (cuatro de la tapa, dos de la base) a escala real con sangrado |
 
 ### Mazos de cartas
 
